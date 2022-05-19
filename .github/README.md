@@ -1,7 +1,7 @@
 # anon
 nano editor alternative for sensitive info.
 
-## install
+## Install
 
 ```bash
 $ git clone https://github.com/alpineyahoo/anon.git
