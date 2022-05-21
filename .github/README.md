@@ -1,5 +1,6 @@
 # anon
-nano editor alternative for sensitive info.
+nano editor alternative for sensitive info.  
+Use me with [peek](https://github.com/alpineyahoo/peek)
 
 ## Install
 
